@@ -3,19 +3,25 @@
     {
       "localization_name": "skin_1",
       "geometry": "geometry.humanoid.custom",
-      "texture": "skin_1.png",
+      "texture": "ika_maru.png",
       "type": "free"
     },
     {
       "localization_name": "skin_2",
       "geometry": "geometry.humanoid.custom",
-      "texture": "skin_2.png",
+      "texture": "hatune_skin.png",
       "type": "free"
     },
     {
       "localization_name": "skin_3",
       "geometry": "geometry.humanoid.custom",
-      "texture": "skin_3.png",
+      "texture": "ika_sikaku.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin_4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ika_sannkaku.png",
       "type": "free"
     }
   ]
