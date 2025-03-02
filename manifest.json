@@ -3,14 +3,14 @@
   "header": {
     "description": "スキンの追加k",
     "name": "スキンの追加",
-    "uuid": "4d305615-e330-4394-8d32-9ba511a1f062",
+    "uuid": "cb662393-e413-4b9e-9e11-ff4d7505d0d8",
     "version": [1, 0, 0],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "4d305615-e330-4394-8d32-9ba511a1f062",
+      "uuid": "41cde1f5-29e6-4e9f-92be-ff29ecaa7ee6",
       "version": [1, 0, 0]
     }
   ]
