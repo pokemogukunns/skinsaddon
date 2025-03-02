@@ -1,0 +1,22 @@
+{
+  "skins": [
+    {
+      "localization_name": "skin_1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin_2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin_3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin_3.png",
+      "type": "free"
+    }
+  ]
+}
