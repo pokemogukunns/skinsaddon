@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "スキンの追加k",
+    "name": "スキンの追加",
+    "uuid": "4d305615-e330-4394-8d32-9ba511a1f062",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4d305615-e330-4394-8d32-9ba511a1f062",
+      "version": [1, 0, 0]
+    }
+  ]
+}
